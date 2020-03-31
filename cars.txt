@@ -6,3 +6,4 @@ BMW X6
 Mercedes X500
 Kia Optima
 Lexux GX470
+Lincoln MKS
